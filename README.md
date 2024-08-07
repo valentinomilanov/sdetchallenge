@@ -55,7 +55,7 @@ For a detailed view of all dependencies and plugins, refer to the `pom.xml` file
 Logging is managed using Logback. The logging configuration is set up to output logs to the console with the following settings:
 
 - **Log Level**: Trace
-- **Log Pattern**: Includes timestamp, log level, logger name, and message.
+- **Log Pattern**: Includes timestamp, log level, logger name, and message for the console and file appenders.
 
 To view the complete logging configuration, check the `logback.xml` file in the repository.
 
