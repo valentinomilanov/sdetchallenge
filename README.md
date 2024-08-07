@@ -104,5 +104,5 @@ To view the complete logging configuration, check the `logback.xml` file in the 
    mvn test
 ## Documentation
 
-[Documentation](https://github.com/valentinomilanov/sdetchallenge/blob/main/Documentation/Fetch_Coding_Exercise_SDET_Documentation.docx)
+[Documentation](https://github.com/valentinomilanov/sdetchallenge/raw/main/Documentation/Fetch_Coding_Exercise_SDET_Documentation.docx)
 
